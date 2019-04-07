@@ -1,8 +1,6 @@
 # Tea collection app made with React Native
 
-![Tea List screenshot](Tea_List.PNG?raw=true "Tea List")
----
-![Tea Detail screenshot](Tea_Detail.PNG?raw=true "Tea Detail")
----
-![Add New Tea Screenshot](Add_New_Tea.PNG?raw=true "Add New Tea")
+<img src="Tea_List.PNG" alt="Tea List Screenshot" width="200"/>
+<img src="Tea_Detail.PNG" alt="Tea Detail Screenshot" width="200"/>
+<img src="Add_New_Tea.PNG" alt="Add New Tea Screenshot" width="200"/>
 
