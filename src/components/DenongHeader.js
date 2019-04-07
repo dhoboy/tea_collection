@@ -27,7 +27,7 @@ class DenongHeader extends React.Component {
           color: "#6f6f6f",
           letterSpacing: 3
         }}>
-          Inventory
+          Collection
         </Text>
       </View>
     );
